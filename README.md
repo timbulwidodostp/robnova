@@ -1,0 +1,2 @@
+# robnova
+Calculates two robust ANOVA statistics, Welch's and Brown-Forsythe's Use robnova With STATA 19
